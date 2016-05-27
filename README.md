@@ -1,0 +1,2 @@
+# TestRNWithExistSwift
+用现有的swift项目把RN集成进来
