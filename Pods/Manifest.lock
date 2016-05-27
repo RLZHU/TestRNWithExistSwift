@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (3.4.0)
+  - React/Core (0.26.2)
+  - React/RCTImage (0.26.2):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTNetwork (0.26.2):
+    - React/Core
+  - React/RCTText (0.26.2):
+    - React/Core
+  - React/RCTWebSocket (0.26.2):
+    - React/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - React/Core (from `./node_modules/react-native`)
+  - React/RCTImage (from `./node_modules/react-native`)
+  - React/RCTNetwork (from `./node_modules/react-native`)
+  - React/RCTText (from `./node_modules/react-native`)
+  - React/RCTWebSocket (from `./node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: ./node_modules/react-native
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  React: a764d67f6cf360723120951301cba3ee5ee05ce2
+
+PODFILE CHECKSUM: f0868ba0e7980d9482c1eacf7316d4a67aad8720
+
+COCOAPODS: 1.0.0
